@@ -20,10 +20,10 @@ export default eventHandler(async (event) => {
       { role: 'user', content: 'https://github.com/nuxt-hub/' },
       { role: 'assistant', content: '{"slug": "nuxt-hub"}' },
 
-      { role: 'user', content: 'https://sink.cool/' },
+      { role: 'user', content: 'https://e8cb3d92.urlshortner-9zn.pages.dev/' },
       { role: 'assistant', content: '{"slug": "sink-cool"}' },
 
-      { role: 'user', content: 'https://github.com/ccbikai/sink' },
+      { role: 'user', content: 'https://github.com/phoenixjr2001/urlshortner' },
       { role: 'assistant', content: '{"slug": "sink"}' },
 
       {
